@@ -27,7 +27,7 @@ Hosting: GitHub Pages
 
 **How to Access**
 
-You can visit my portfolio website here: https://itzsani.github.io/my-website/
+You can visit my portfolio website here: [My Portfolio](https://itzsani.github.io/my_website/)
 
 **Contributions**
 
